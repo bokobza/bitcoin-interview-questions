@@ -1,8 +1,8 @@
 
 
-# Bitcoin interview Questions
+# Bitcoin Interview Questions
 
-Here is a list of Bitcoin-specific questions for interviewers and interviewees. It can help you prepare for an interview, regardless of which side of the table you sit.
+Here is an interesting list of Bitcoin-specific questions. It can help you prepare for an interview, regardless of which side of the table you sit.
 
 Some of the questions are pretty open-ended and only require the interviewee to show how much they know about a certain subject, even if they don't know all of its intricate details.
 
@@ -25,6 +25,7 @@ You're welcome to contribute to this guide (please do), just keep a couple of th
 
 - Please don't submit PRs reformatting the whole thing. 
 
+  
   
 ## Table of contents
 
@@ -194,32 +195,23 @@ ENDIF
 
 ## Helpful learning resources
 
-[Bitcoin source code](https://github.com/bitcoin)
-
-[Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation)
-
-[Bitcoin Wiki](https://en.bitcoin.it/wiki)
-
-[Bitcoin Stack Exchange](https://bitcoin.stackexchange.com)
-
-[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
-
-[Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)
-
-[Learn me a Bitcoin](https://learnmeabitcoin.com/)
-
-[SF Bitcoin Developers YouTube Channel](https://www.youtube.com/channel/UCREs0ConyCR2sEFf-DrLRMw)
-
-[Bitcoin Peer-to-Peer Network Programming](https://www.youtube.com/playlist?list=PLQ56Yiu6lEayrOrjxefwkxKakZgMNIzL0)
-
-[Blockchain tutorial videos](https://www.youtube.com/playlist?list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)
+[Bitcoin source code](https://github.com/bitcoin)   
+[Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation)   
+[Bitcoin Wiki](https://en.bitcoin.it/wiki)   
+[Bitcoin Stack Exchange](https://bitcoin.stackexchange.com)   
+[Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)   
+[Programming Bitcoin](https://github.com/jimmysong/programmingbitcoin)   
+[Learn me a Bitcoin](https://learnmeabitcoin.com/)   
+[SF Bitcoin Developers YouTube Channel](https://www.youtube.com/channel/UCREs0ConyCR2sEFf-DrLRMw)   
+[Bitcoin Peer-to-Peer Network Programming](https://www.youtube.com/playlist?list=PLQ56Yiu6lEayrOrjxefwkxKakZgMNIzL0)   
+[Blockchain tutorial videos](https://www.youtube.com/playlist?list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)   
 
 
 
 ## Credits for some of the questions and exercises:
 
-@aprogiena
-@aantonopoulos
+[@aprogiena](https://github.com/aprogiena)
+[@aantonop](https://github.com/aantonop)
 
 
 
